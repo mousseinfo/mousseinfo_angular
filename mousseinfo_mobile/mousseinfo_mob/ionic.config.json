@@ -1,0 +1,7 @@
+{
+  "name": "mousseinfo_mob",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
